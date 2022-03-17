@@ -59,6 +59,7 @@ _Nothing_
 1.  CSS video course
 2.  Computer Science Basics - https://learn.epam.com/
 3.  HTML, CSS, JS для начинающих https://ru.code-basics.com/#courses
+4.  JS/FE Pre-school 2022
 
 ---
 
